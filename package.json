@@ -1,0 +1,21 @@
+{
+  "name": "sumbi-bartali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./dist/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discordjs-prompter": "^2.0.4",
+    "dotenv": "^10.0.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.0",
+    "nodemon": "^2.0.10"
+  }
+}
